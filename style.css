@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+    text-align: center;
+}
+h1 {
+    font-size: 25px;
+    color: blueviolet;
+
+}
+#potifole {
+   font-size: 30px;
+   color: white;
+   font-weight: bold;
+}
+#app {
+    background-color: darkseagreen;
+
+}
+#Jogos{
+    background-color: blue;
+
+}
+.line{
+    height: 6px;
+    background-color: black;
+    width: 150px;
+    margin: 8px auto;
+}
